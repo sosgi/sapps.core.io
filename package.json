@@ -1,0 +1,23 @@
+{
+  "name": "apps.core.io",
+  "version": "0.0.1",
+  "description": "sapps",
+  "keywords": [
+    "www"
+  ],
+  "homepage": "",
+  "license": "MIT",
+  "author": "smialy",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sosgi/sapps.core.io"
+  },
+  "devDependencies": {},
+  "jspm": {
+    "main": "index",
+    "format": "register",
+    "directories": {
+      "lib": "dist"
+    }
+  }
+}
